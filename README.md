@@ -14,10 +14,13 @@
 ## Áreas de Atuação
 - Grande Área: Ciências Exatas e da Terra, Área: Ciência da Computação, Subárea: Sistemas de computação
 
-## Linguagens de Programação
-- Linguagem C
-- Python
-- PHP
+## Desenvolvimento Web
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/11504380/102726320-9db4dd80-42fc-11eb-99ac-9be991574233.png"></td>
+    <td><img src = "https://user-images.githubusercontent.com/11504380/102726313-8970e080-42fc-11eb-9bcd-2ca618af2713.png"></td>
+  </tr>
+</table>
 
 ## Habilidades Banco de Dados
 - Modelagem, criação e realização de buscas
