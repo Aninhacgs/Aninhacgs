@@ -17,6 +17,11 @@
 ## Desenvolvimento Web
 <table>
   <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>Bootstrap</td>
+  </tr>
+  <tr>
     <td><img src="https://user-images.githubusercontent.com/11504380/102726320-9db4dd80-42fc-11eb-99ac-9be991574233.png"></td>
     <td><img src = "https://user-images.githubusercontent.com/11504380/102726313-8970e080-42fc-11eb-9bcd-2ca618af2713.png"></td>
     <td><img src = "https://user-images.githubusercontent.com/11504380/102726534-53346080-42fe-11eb-906a-f045f51c00ed.png"></td>
@@ -31,9 +36,13 @@
   </tr>
 </table>
 
-## Habilidades Software para Data Science
-- Power BI
-- Knime
+## Habilidades Data Science
+<table>
+  <tr>
+    <td>Python</td>
+    <td>Sklearn</td>
+  </tr>
+</table>
 
 <!--
 **Aninhacgs/Aninhacgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
