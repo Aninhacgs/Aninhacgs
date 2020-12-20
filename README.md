@@ -12,9 +12,7 @@
 - Técnico Manutenção e Suporte de Informática - SENAC Rio (2012-2013)
 
 ## Áreas de Atuação
-- Grande Área: Ciências Exatas e da Terra
-- Área: Ciência da Computação
-- Subárea: Sistemas de computação
+- Grande Área: Ciências Exatas e da Terra, Área: Ciência da Computação, Subárea: Sistemas de computação
 
 ## Linguagens de Programação
 - Linguagem C
