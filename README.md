@@ -1,4 +1,30 @@
-### Hi there 👋
+## Olá prazer em conhecê-lo 👋😄
+
+## Bem-vindo a Minha Página!
+### Sou Ana Claudia, desenvolvedora web, brasileira, carioca
+
+## Formação Acadêmica
+- Qualificação FIC Administrador de Banco de Dados - UFV (2020-2020)
+- Bacharel Ciência da Computação - UEZO (2014-2021)
+- Técnico Manutenção e Suporte de Informática - SENAC Rio (2012-2013)
+
+## Áreas de Atuação
+- Grande Área: Ciências Exatas e da Terra
+- Área: Ciência da Computação
+- Subárea: Sistemas de computação
+
+## Linguagens de Programação
+- Linguagem C
+- Python
+- PHP
+
+## Habilidades Banco de Dados
+- Modelagem, criação e realização de buscas
+- Conhecimento em MySQL, Oracle e Postgresql
+
+## Habilidades Software para Data Science
+- Power BI
+- Knime
 
 <!--
 **Aninhacgs/Aninhacgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
