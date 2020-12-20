@@ -19,12 +19,17 @@
   <tr>
     <td><img src="https://user-images.githubusercontent.com/11504380/102726320-9db4dd80-42fc-11eb-99ac-9be991574233.png"></td>
     <td><img src = "https://user-images.githubusercontent.com/11504380/102726313-8970e080-42fc-11eb-9bcd-2ca618af2713.png"></td>
+    <td><img src = "https://user-images.githubusercontent.com/11504380/102726534-53346080-42fe-11eb-906a-f045f51c00ed.png"></td>
   </tr>
 </table>
 
 ## Habilidades Banco de Dados
-- Modelagem, criação e realização de buscas
-- Conhecimento em MySQL, Oracle e Postgresql
+<table>
+  <tr>
+    <td><img src = "https://user-images.githubusercontent.com/11504380/102726552-795a0080-42fe-11eb-9787-8d63a985b36f.png"></td>
+    <td><img src = "https://user-images.githubusercontent.com/11504380/102726561-8f67c100-42fe-11eb-9138-ed729e6f2c73.png"></td>
+  </tr>
+</table>
 
 ## Habilidades Software para Data Science
 - Power BI
