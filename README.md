@@ -1,6 +1,9 @@
 ## Olá prazer em conhecê-lo 👋😄
 
 ## Bem-vindo a Minha Página!
+
+![aboutme](https://user-images.githubusercontent.com/11504380/102703973-ba95d600-4254-11eb-9bf6-a4b81f513732.gif)
+
 ### Sou Ana Claudia, desenvolvedora web, brasileira, carioca
 
 ## Formação Acadêmica
