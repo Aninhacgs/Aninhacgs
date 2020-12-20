@@ -40,10 +40,11 @@
 <table>
   <tr>
     <td>Python</td>
-    <td>Sklearn</td>
+    <td>Jupyter</td>
   </tr>
   <tr>
     <td><img src = "https://user-images.githubusercontent.com/11504380/102727265-757cad00-4303-11eb-907f-6f11e78cb9e3.jpg" width=75 height=75></td>
+    <td><img src = "https://user-images.githubusercontent.com/11504380/102727489-b1fcd880-4304-11eb-85a6-3e142341e554.jpg" width = 75 height = 75></td>
 </table>
 
 <!--
