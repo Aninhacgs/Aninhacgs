@@ -22,9 +22,9 @@
     <td>Bootstrap</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/11504380/102726320-9db4dd80-42fc-11eb-99ac-9be991574233.png"></td>
-    <td><img src = "https://user-images.githubusercontent.com/11504380/102726313-8970e080-42fc-11eb-9bcd-2ca618af2713.png"></td>
-    <td><img src = "https://user-images.githubusercontent.com/11504380/102726534-53346080-42fe-11eb-906a-f045f51c00ed.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/11504380/102726320-9db4dd80-42fc-11eb-99ac-9be991574233.png" width = 75 height = 75></td>
+    <td><img src = "https://user-images.githubusercontent.com/11504380/102726313-8970e080-42fc-11eb-9bcd-2ca618af2713.png" width = 75 height = 75></td>
+    <td><img src = "https://user-images.githubusercontent.com/11504380/102726534-53346080-42fe-11eb-906a-f045f51c00ed.png" width = 75 height = 75></td>
   </tr>
 </table>
 
@@ -43,6 +43,7 @@
     <td><img src = "https://user-images.githubusercontent.com/11504380/102727489-b1fcd880-4304-11eb-85a6-3e142341e554.jpg" width = 75 height = 75></td>
     <td><img src = "https://user-images.githubusercontent.com/11504380/102727975-fa69c580-4307-11eb-8437-f360ff3b495d.png" width = 75 height = 75></td>
     <td><img src = "https://user-images.githubusercontent.com/11504380/102727904-86c7b880-4307-11eb-8496-a4d4391e1b67.png" width = 75 height = 75></td>
+    <td><img src = "https://user-images.githubusercontent.com/11504380/102728103-a3b0bb80-4308-11eb-90ec-88a95bb7209e.png" width = 85 height = 75></td>
 </table>
 
 <!--
