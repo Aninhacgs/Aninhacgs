@@ -31,8 +31,8 @@
 ## Habilidades Banco de Dados
 <table>
   <tr>
-    <td><img src = "https://user-images.githubusercontent.com/11504380/102726552-795a0080-42fe-11eb-9787-8d63a985b36f.png"></td>
-    <td><img src = "https://user-images.githubusercontent.com/11504380/102726561-8f67c100-42fe-11eb-9138-ed729e6f2c73.png"></td>
+    <td><img src = "https://user-images.githubusercontent.com/11504380/102726552-795a0080-42fe-11eb-9787-8d63a985b36f.png" width=75 height=75></td>
+    <td><img src = "https://user-images.githubusercontent.com/11504380/102726561-8f67c100-42fe-11eb-9138-ed729e6f2c73.png" width=75 height=75></td>
   </tr>
 </table>
 
@@ -41,6 +41,7 @@
   <tr>
     <td><img src = "https://user-images.githubusercontent.com/11504380/102727808-e4a7d080-4306-11eb-8c48-3dec0e2814af.jpg" width=75 height=75></td>
     <td><img src = "https://user-images.githubusercontent.com/11504380/102727489-b1fcd880-4304-11eb-85a6-3e142341e554.jpg" width = 75 height = 75></td>
+    <td><img src = "https://user-images.githubusercontent.com/11504380/102727975-fa69c580-4307-11eb-8437-f360ff3b495d.png" width = 75 height = 75></td>
     <td><img src = "https://user-images.githubusercontent.com/11504380/102727904-86c7b880-4307-11eb-8496-a4d4391e1b67.png" width = 75 height = 75></td>
 </table>
 
