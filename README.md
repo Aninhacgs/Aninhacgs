@@ -44,6 +44,14 @@
     <td><img src = "https://user-images.githubusercontent.com/11504380/102727975-fa69c580-4307-11eb-8437-f360ff3b495d.png" width = 75 height = 75></td>
     <td><img src = "https://user-images.githubusercontent.com/11504380/102727904-86c7b880-4307-11eb-8496-a4d4391e1b67.png" width = 75 height = 75></td>
     <td><img src = "https://user-images.githubusercontent.com/11504380/102728103-a3b0bb80-4308-11eb-90ec-88a95bb7209e.png" width = 85 height = 75></td>
+  </tr>
+</table>
+
+## Emblemas IBM
+<table>
+  <tr>
+    <td><img src = "https://user-images.githubusercontent.com/11504380/105648931-c8aac800-5e8c-11eb-8d62-6b6364e2bacf.png"></td>
+  </tr>
 </table>
 
 <!--
