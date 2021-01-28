@@ -47,10 +47,10 @@
   </tr>
 </table>
 
-## Emblemas IBM
+## Emblemas Blockchain IBM
 <table>
   <tr>
-    <td><img src = "https://user-images.githubusercontent.com/11504380/105648931-c8aac800-5e8c-11eb-8d62-6b6364e2bacf.png"></td>
+    <td><img src = "https://user-images.githubusercontent.com/11504380/106131751-d6d53e80-6141-11eb-9f0b-54284bb2cabb.png"></td>
   </tr>
 </table>
 
