@@ -57,7 +57,7 @@
 ## Emblemas R IBM
 <table>
   <tr>
-    <td><img src = "https://user-images.githubusercontent.com/11504380/106129720-44cc3680-613f-11eb-9790-42f86bf1caff.png" width = 100 height = 100></td>
+    <td><img src = "https://user-images.githubusercontent.com/11504380/106129720-44cc3680-613f-11eb-9790-42f86bf1caff.png"></td>
   </tr>
 </table>
 
