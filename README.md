@@ -35,8 +35,6 @@
 
 <br>
 
-## IBM Apprenticeship Program (Professional Certificate) 
-
 ## Github Performance
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aninhacgs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
