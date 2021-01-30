@@ -30,11 +30,16 @@
   </tr>
 </table>
 
+<br>
+<p>🌱🌱 🌱<a href = "https://www.youracclaim.com/users/ana-claudia-gomes-souza/badges">Clique aqui para saber mais sobre meus badges IBM</a>🌱🌱🌱</p>
 
 ## Github Performance
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aninhacgs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aninhacgs&show_icons=true&theme=radical) 
+
+
+
 
 
 <!--
