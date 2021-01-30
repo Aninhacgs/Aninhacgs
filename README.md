@@ -33,6 +33,10 @@
 <br>
 <p>🌱🌱 🌱<a href = "https://www.youracclaim.com/users/ana-claudia-gomes-souza/badges">Clique aqui para saber mais sobre meus badges IBM</a>🌱🌱🌱</p>
 
+<br>
+
+## IBM Apprenticeship Program (Professional Certificate) 
+
 ## Github Performance
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aninhacgs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
