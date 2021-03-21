@@ -31,7 +31,7 @@
 </table>
 
 <br>
-<p>🌱🌱 🌱<a href = "https://www.youracclaim.com/users/ana-claudia-gomes-souza/badges">Clique aqui para saber mais sobre meus badges IBM</a>🌱🌱🌱</p>
+<p>🌱🌱 🌱<a href = "https://www.youracclaim.com/users/ana-claudia-gomes-souza.0d25e1a7/badges">Clique aqui para saber mais sobre meus badges IBM</a>🌱🌱🌱</p>
 
 <br>
 
