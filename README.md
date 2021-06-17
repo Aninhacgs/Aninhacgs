@@ -15,23 +15,10 @@
 - Grande Área: Ciências Exatas e da Terra, Área: Ciência da Computação, Subárea: Sistemas de computação
 
 
-## Emblemas Blockchain IBM
-<table>
-  <tr>
-    <td><img src = "https://user-images.githubusercontent.com/11504380/106131751-d6d53e80-6141-11eb-9f0b-54284bb2cabb.png"></td>
-  </tr>
-</table>
-
-## Emblemas R IBM
-<table>
-  <tr>
-    <td><img src = "https://user-images.githubusercontent.com/11504380/106129720-44cc3680-613f-11eb-9790-42f86bf1caff.png"></td>
-    <td><img src = "https://user-images.githubusercontent.com/11504380/106359518-1f335e80-62f2-11eb-8e0d-032f1a33b720.png"></td>
-  </tr>
-</table>
+## Emblemas IBM
 
 <br>
-<p>🌱🌱 🌱<a href = "https://www.youracclaim.com/users/ana-claudia-gomes-souza.0d25e1a7/badges">Clique aqui para saber mais sobre meus badges IBM</a>🌱🌱🌱</p>
+<p>✨✨✨<a href = "https://www.youracclaim.com/users/ana-claudia-gomes-souza.0d25e1a7/badges">Clique aqui para saber mais sobre meus badges IBM</a>✨✨✨</p>
 
 <br>
 
