@@ -11,6 +11,17 @@
 - Bacharel Ciência da Computação - UEZO (2014-2021)
 - Técnico Manutenção e Suporte de Informática - SENAC Rio (2012-2013)
 
+## Bootcamps
+- Backend Developer Carrefour - Digital Innovation One (2021-2021)
+- SPTech Desenvolvimento Back-end - Digital Innovation One (2021-2021)
+- SPTech Desenvolvimento Front-end - Digital Innovation One (2021-2021)
+- HTML Web Developer - Digital Innovation One (2021-2021)
+- Code Like a Fullstack Girl - Digital Innovation One (2020-2020)
+- Desenvolvedor Front-end Angular - Digital Innovation One (2020-2020)
+- Desenvolvedor Front-end ReactJS - Digital Innovation One (2020-2020)
+- Fullstack Developer Banco Carrefour - Digital Innovation One (2020-2020)
+- GFT START_UNI - Digital Innovation One (2020-2020)
+
 ## Áreas de Atuação
 - Grande Área: Ciências Exatas e da Terra, Área: Ciência da Computação, Subárea: Sistemas de computação
 
