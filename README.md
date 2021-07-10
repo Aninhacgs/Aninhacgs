@@ -19,8 +19,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aninhacgs)](https://github.com/Aninhacgs/github-readme-stats)
 
 ## Emblemas IBM
+<img src="https://github.com/Aninhacgs/Aninhacgs/issues/20#issue-797438096" width="350">
 
-<br>
 <p>✨✨✨<a href = "https://www.youracclaim.com/users/ana-claudia-gomes-souza.0d25e1a7/badges">Clique aqui para saber mais sobre meus badges IBM</a>✨✨✨</p>
 
 <br>
