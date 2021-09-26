@@ -46,9 +46,9 @@
   <a href="https://codepen.io/AnaGomes" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
  <a href="https://www.youracclaim.com/users/ana-claudia-gomes-souza.0d25e1a7/badges" target="_blank"><img src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png" height="30" widght="40" target="_blank"></a>
  
-  ![Snake animation](https://github.com/Aninhacgs/Aninhacgs/blob/output/github-contribution-grid-snake.svg)
- 
   </div>
+ 
+ ![Snake animation](https://github.com/Aninhacgs/Aninhacgs/blob/output/github-contribution-grid-snake.svg)
 
 
 
