@@ -42,6 +42,7 @@
   
 <div> 
   <a href="https://br.linkedin.com/in/ana-claudia-gomes-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://codepen.io/AnaGomes" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   </div>
 
 
