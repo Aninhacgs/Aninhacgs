@@ -39,8 +39,6 @@
 ## Badges Data Science IBM
 <img src="https://user-images.githubusercontent.com/11504380/106359518-1f335e80-62f2-11eb-8e0d-032f1a33b720.png" height="80" widght="80"> <img src="https://user-images.githubusercontent.com/11504380/106129720-44cc3680-613f-11eb-9790-42f86bf1caff.png" height="80" widght="80"> <img src="https://user-images.githubusercontent.com/11504380/125171368-425c1700-e18a-11eb-8a15-3768fbbaa067.png" height="80" widght="80"> <img src="https://user-images.githubusercontent.com/11504380/125171468-c7473080-e18a-11eb-942a-48ecc9dd03f6.png" height="80" widght="80">
 
-<p>✨✨✨<a href = "https://www.youracclaim.com/users/ana-claudia-gomes-souza.0d25e1a7/badges">Clique aqui para saber mais sobre meus badges IBM</a>✨✨✨</p>
-
 <br>
   
 <div> 
