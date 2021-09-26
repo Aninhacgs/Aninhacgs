@@ -46,6 +46,7 @@
 <div> 
   <a href="https://br.linkedin.com/in/ana-claudia-gomes-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/AnaGomes" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+ <a href="https://www.youracclaim.com/users/ana-claudia-gomes-souza.0d25e1a7/badges" target="_blank"><img src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png" height="30" widght="40" target="_blank"></a>
   </div>
 
 
