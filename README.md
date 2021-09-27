@@ -6,7 +6,7 @@
 
 
 
-### 💬 Sou Ana Claudia, desenvolvedora web, brasileira, carioca
+### 💬 Sou Ana Claudia, Desenvolvedora Front-End, Estudante de Ciência da Computação e Ciência de Dados, Brasileira, Carioca
 
 ## Formação Acadêmica
 - Qualificação FIC Administrador de Banco de Dados - UFV (2020-2020)
