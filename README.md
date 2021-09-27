@@ -46,9 +46,11 @@
 <br>
   
 <div> 
-  <a href="https://br.linkedin.com/in/ana-claudia-gomes-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://br.linkedin.com/in/ana-claudia-gomes-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/AnaGomes" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
- <a href="https://www.youracclaim.com/users/ana-claudia-gomes-souza.0d25e1a7/badges" target="_blank"><img src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png" height="30" widght="40" target="_blank"></a>
+ <a href="https://www.youracclaim.com/users/ana-claudia-gomes-souza.0d25e1a7/badges" target="_blank"><img src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png" height="30" widght="40" target="_blank"></a> <a href="http://lattes.cnpq.br/7169319748999752" target="_blank"><img src="https://user-images.githubusercontent.com/11504380/134910117-d77c46b9-6592-4e5e-81a9-2021aeff62b6.png" height="40" width="90"></a>
+ 
+ 
   
  ![Snake animation](https://github.com/Aninhacgs/Aninhacgs/blob/output/github-contribution-grid-snake.svg)
 
