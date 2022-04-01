@@ -9,8 +9,10 @@
 ### 💬 Sou Ana Claudia, Desenvolvedora Front-End, Estudante de Ciência da Computação e Ciência de Dados, Brasileira, Carioca
 
 ## Formação Acadêmica
+- Qualificação em Data Analytics - WoMakersCode (2021-2022)
+- Qualificação em Ciência de Dados - UECE (2021-2022)
 - Qualificação FIC Administrador de Banco de Dados - UFV (2020-2020)
-- Bacharel Ciência da Computação - UEZO (2014-2021)
+- Bacharel Ciência da Computação - UEZO (2014-2023)
 - Técnico Manutenção e Suporte de Informática - SENAC Rio (2012-2013)
 
 
