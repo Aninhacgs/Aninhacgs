@@ -31,10 +31,10 @@
   </div>
   
   
-  <br/><br/>
-  <h2>My GitHub Profile Trophy</h2>
+  <!--br/><br/>
+  <h2>My GitHub Profile Trophy</h2-->
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Aninhacgs&theme=onedark)](https://github.com/Aninhacgs/github-profile-trophy)
+  <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Aninhacgs&theme=onedark)](https://github.com/Aninhacgs/github-profile-trophy)-->
  
  
   
