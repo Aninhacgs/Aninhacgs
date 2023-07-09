@@ -1,6 +1,5 @@
 
 <!--img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Aninhacgs}1212%2Fhit-counter"/-->
-![Profile views](https://gpvc.arturio.dev/Aninhacgs)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Portfolio%20Front-End%20em%20Desenvolvimento&color=993399&style=for-the-badge)
 
 
