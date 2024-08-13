@@ -1,6 +1,6 @@
 
 <!--img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Aninhacgs}1212%2Fhit-counter"/-->
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Portfolio%20Front-End%20em%20Desenvolvimento&color=993399&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Portfolio%20em%20Desenvolvimento&color=993399&style=for-the-badge)
 
 
 <h1 text align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Codes&size=35&pause=1000&color=C71585&labe&center=true&width=785&height=70&lines=Hello+I'm+Ana+Claudia;I'm+Front-End+Developer;I+program+in+Anguar+and+React;" alt="Typing SVG" /></a>
