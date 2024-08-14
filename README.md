@@ -5,10 +5,12 @@
 
 <h1 text align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Codes&size=35&pause=1000&color=C71585&labe&center=true&width=785&height=70&lines=Hello+I'm+Ana+Claudia;I'm+Front-End+Developer;I+program+in+Anguar+and+React;" alt="Typing SVG" /></a>
 <div left="center">
-<a href="https://gitlab.com/Annecgs" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
-  <a href="https://codepen.io/AnaGomes" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+<!--a href="https://gitlab.com/Annecgs" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+<a href="https://codepen.io/AnaGomes" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a-->
+<a href="https://github.com/AnneClaudia"><img src = "https://github.com/user-attachments/assets/a9053ece-e98f-432d-ae43-efa431c2e888"/></a> 
+<a href="https://github.com/annecgs"><img src = "https://github.com/user-attachments/assets/f40878d4-3dea-4e0a-8bb8-1b49bf728b79"/></a>    
 </di>
-</h1>
+
 
 
 <div align="center">
