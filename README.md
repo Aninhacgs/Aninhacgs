@@ -21,7 +21,7 @@
 </div>
   
   
-  <h2>Front End Technologies</h2>
+  <!--h2>Front End Technologies</h2-->
   
   <div align="left">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
